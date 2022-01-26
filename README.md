@@ -1,4 +1,4 @@
-### Hi there 👋
+# 《社会》为双月刊,1981年10月创刊,主要刊发原创性的社会学及其他相关学科学术论文,秉承理论探讨与经验研究并重 👋
 
 <!--
 **AzadaLeep/AzadaLeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
